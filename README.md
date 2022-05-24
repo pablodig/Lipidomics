@@ -1,6 +1,6 @@
 # Lipidomics
-***
-# Changes in the lipid composition of thyroid cells under the influence of the TSH-CREB3L1 axis
+
+## Changes in the lipid composition of thyroid cells under the influence of the TSH-CREB3L1 axis
 
 ### 1 Changes in lipid composition under TSH stimulation
 TSH induce changes in genes related to thyroid specific function, as well as genes involved in the adaptation of the cell in order to work as a thyroid cell. For example, TSH acts on lipid biosynthetic pathways needed for thyrocites proliferation. TSH as well as the cAMP agonist, forskolin, transcriptionally induce the enzime 3-hydroxy-3-methyl-glutaryl-coenzyme A reductase (HMGCR, Aloj et al., 1990), which represent the limiting step in cholesterol synthesis, and the malic enzyme, involved in the synthesis of fatty acids. Similar to the effect mediated by CREB3L1 in response to TSH, it was reported that TSH induces the activation of the sterol regulatory element-binding proteins (SREBPs), which are the main transcriptional modulators the lipid synthesis. In addition, the SREPB-1c and SREBP-2 factors also activate the transcription of genes involved in the synthesis of thyroid hormones, such as NIS, TPO and TG (Rauer et al., 2014; Ringseis et al., 2013).  
