@@ -45,3 +45,10 @@ To evaluate whether the production of SM, and sphingolipids as a whole, is neces
 
 _**Figure 6. Representative scheme of the sphingolipid synthesis metabolic pathway.** Adapted from van Etchen et al. 2018_
 
+PCCL3 cells were incubated for eight days with the inhibitor, PDMP or Myriocin, and from the fifth day of incubation the scheme of deprivation and 24 h stimulation with TSH was started, as previously described **(Figure 1)**, maintaining the presence of the inhibitors throughout the process. As shown in **Figure 7**, in the absence of inhibitors (lines 1-4), CREB3L1 and NIS levels decrease after TSH deprivation, and increase upon the stimulus at 24 h and 48 h post TSH **(Figure 7, lines 1 – 4)**. In the presence of PDMP, TSH induced a very mild activation of CREB3L1 without modifying NIS levels **(Figure 7, lines 5-6)**. In addition, incubation with Myriocin prevented both CREB3L1 activation and TSH-mediated increase in NIS **(Figure 7, lanes 7-8)**. These results agree with previous publications where it was reported that, in tumor cells, the activation of CREB3L1 induced by Doxorubicin is mediated by ceramide and this effect is blocked by Myriocin (Denard et al., 2012).
+
+<img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170520060-49bd4d38-07a5-49c2-baae-9d8a2521e1b4.png>
+
+_**Figure 7. Effect of PDMDP and Myriocin inhibitors on TSH-stimulated PCCL3 cells:** PCCL3 cells under growth conditions (Ctrl) were incubated in the absence, or presence of PDMP (20 μM) or Myriocin (2.5 μM) by a period of 5 days, then they were deprived of TSH for 72 h (0 h) and stimulated with TSH for 24 h in the presence of the inhibitors._
+
+
