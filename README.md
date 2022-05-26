@@ -73,4 +73,8 @@ _**Figure 10. Effect of changes in CREB3L1 expression on the lipid profile of PC
 
 Similarly to what was done previously, we made a comparative analysis of the inhibition and overexpression of CREB3L1 with respect to its corresponding controls **(Figure 11 A and 12 A)**. Different groups of lipids are decreased in cells transfected with siCREB3L1, as this is the case for LBPA and TAG mainly. In addition, some PC species are increased **(Figure 11 A)**. Enrichment analysis of lipids upregulated under this condition revealed a predominance of PC, endoplasmic reticulum lipids and others such as glycerophospholipids **(Figure 11 B)**. In contrast, in lipid species decreased by the inhibition of CREB3L1, the metabolic pathways involved revealed by the analysis show a certain similarity with those found upon stimulation with TSH, such as the lipids of the endo-lysosomal pathway and sphingolipids **(Figure 11 C)**.
 
+<img width="700" alt="image" src=https://user-images.githubusercontent.com/48334248/170525813-23995576-8d62-4e28-8661-12eda439c2bc.png>
+
+_**Figure 11. Metabolic pathways affected in response to CREB3L1 inhibition:** (A) Volcano plot of lipid species in siCREB3L1/si Scramble transfected cells. A log2 fold change cut off of +/- 1 (or fc=2) was selected to identify those lipids whose changes were significant (A). (B and D) Lipid ontology analysis (performed with the LION software) of increased (B) and decreased (C) lipids whose changes were significant._
+
 
