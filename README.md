@@ -89,6 +89,8 @@ To further study the role of CREB3L1 in TSH-induced lipid metabolism reprogrammi
 
 <img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170566156-6ae95aac-52ab-4145-a0a0-6a1c216821e6.png>
 
+_**Figure 13. CREB3L1 inhibition reduces the levels of genes involved in lipid synthesis:** FRTL-5 cells were transfected with siScramble or siCREB3L1 for 24 h, then TSH deprived for 72 h and finally stimulated with TSH for 16 h. Quantification of mRNA levels of indicated transcripts by qPCR, using total RNA from FRTL-5 cells transfected with siScramble or siCREB3L1. Results are normalized to β-Actin levels, expressed by the 2-∆∆Ct method relative to levels of TSH-deprived siScramble cells (taken as one)._
+
 ### 4 Conclusion
 
 These results show the change in lipid metabolism carried out by the thyroid cell upon TSH stimulation and suggest that CREB3L1 may be playing a key role in this process. From these results it was concluded that:
