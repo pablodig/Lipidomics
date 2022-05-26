@@ -63,5 +63,10 @@ Furthermore, as previously shown, CREB3L1 CA overesxpression increase the Golgi 
 
 <img width="800" alt="image" src=https://user-images.githubusercontent.com/48334248/170522822-93011cad-9317-4c29-9d69-49f87b2bfd26.png>
 
-_**Figure 34. CREB3L1 modulates Golgi volume:** Immunofluorescence of PCCL3 cells transfected with CREB3L1 CA or pcDNA for 72 h, stained with anti-CREB3L1 (green) and anti-GM130 (red). Arrowheads in GM130 panels indicate transfected cells with enlarged Golgi phenotype. The nuclei were labeled with Hoechst 33258._
+_**Figure 9. CREB3L1 modulates Golgi volume:** Immunofluorescence of PCCL3 cells transfected with CREB3L1 CA or pcDNA for 72 h, stained with anti-CREB3L1 (green) and anti-GM130 (red). Arrowheads in GM130 panels indicate transfected cells with enlarged Golgi phenotype. The nuclei were labeled with Hoechst 33258._
 
+Lipidomics assays performed on cells transfected with siCREB3L1 or CREB3L1 CA **(Figure 10)**, indicate that changes in CREB3L1 expression induce changes in lipids. Cells transfected with siCREB3L1 have higher expression levels of certain PC and LysoPC species **(dotted box, Figure 10A)**, this is comparable to what occurs in the absence of TSH **(Figure 2)**, where CREB3L1 levels are low. On the other hand, cells transfected with CREB3L1CA display higher levels of TAG, DAG, LBPA, CER, GlcCer and SM compared to cells transfected with pcDNA **(dotted line box, Figure 10B)**, similar to what occurs upon stimulation with TSH for 48 h.
+
+<img width="900" alt="image" src=https://user-images.githubusercontent.com/48334248/170523702-fd42f6fb-4fa6-43d0-8d79-b4e795c8095a.png>
+
+_**Figure 10. Effect of changes in CREB3L1 expression on the lipid profile of PCCL3 cells:** PCCL3 cells under growth conditions were transfected with siCREB3L1 or siScramble (A), and CREBL31 CA or pcDNA 3.1 (B). Lipids were extracted using methyl-tert-butyl ether (MTBE) as solvent and then introduced into liquid chromatography coupled to mass spectrometry (LC-MS) equipment. “Heatmap” of the data set obtained from an experiment carried out with three biological replicates._
