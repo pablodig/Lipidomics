@@ -25,9 +25,9 @@ Enrichment analysis using the software LION: _"Lipid Ontology Enrichment Analysi
 
 On the other hand, among the lipid metabolic pathways that decrease in response to TSH, those related to phospholipids such as PC and PS are represented **(Figure 3 C)**. The chemical classifications of the lipids involved are: headgroup with positive charge, and glycerophosphocholines and diacylglycerophosphocholines, precursors of PC and PS, among others. The main classification that involves biological characteristics is ER (endoplasmic reticulum) due to the large number of phospholipids involved in the structure of this organelle (van Meer et al., 2008). Finally, several pathways related to physicochemical properties that refer to the role of phospholipids in membrane composition and function (such as neutral intrinsic curvature, low transition temperature, high lateral diffusion) **(Figure 3 C)** were also identified.
 
-<img width="482" alt="image" src="https://user-images.githubusercontent.com/48334248/165777432-1cdb029f-80c8-4330-9ef1-fb3421708e3f.png">
+![Figura_28_v3](https://user-images.githubusercontent.com/48334248/170511795-430a5bea-57fb-4966-8169-9186865e745c.png)
 
-Figura 3. Volcano plot y Lipid Ontology Analysis revelaron distintas vías metabólicas reguladas frente al estímulo con TSH : (A) Volcano plot utilizando el mismo dataset que en el Heatmap de Figura 27, se seleccionó un punto de corte de fold change (fc) de 4, o log2 del fc de +/- 2 para identificar aquellos lípidos cuyos cambios eran significativos. (B) Lipid Ontology Analysis de los lípidos cuyos cambios eran significativos utilizando el software LION (http://www.lipidontology.com).
+_**Figura 3. TSH-regulated metabolic pathways:** (A) “Volcano plot” type representation representing the “Heatmap” data from **Figure 2**. A fold change (fc) cut-off of 4, or log2 fc of + /- 2 was set to identify those lipids whose changes were significant. (B and C) Lipid Ontology Analysis of lipids whose changes were significant using the LION software (http://www.lipidontology.com)._
 
 ### 2 CREB3L1 modula la expresión de lípidos involucrados en el proceso adaptativo de la célula tiroidea
 
