@@ -25,7 +25,7 @@ Enrichment analysis using the software LION: _"Lipid Ontology Enrichment Analysi
 
 On the other hand, among the lipid metabolic pathways that decrease in response to TSH, those related to phospholipids such as PC and PS are represented **(Figure 3 C)**. The chemical classifications of the lipids involved are: headgroup with positive charge, and glycerophosphocholines and diacylglycerophosphocholines, precursors of PC and PS, among others. The main classification that involves biological characteristics is ER (endoplasmic reticulum) due to the large number of phospholipids involved in the structure of this organelle (van Meer et al., 2008). Finally, several pathways related to physicochemical properties that refer to the role of phospholipids in membrane composition and function (such as neutral intrinsic curvature, low transition temperature, high lateral diffusion) **(Figure 3 C)** were also identified.
 
-<img width="700" alt="image" src=https://user-images.githubusercontent.com/48334248/170511795-430a5bea-57fb-4966-8169-9186865e745c.png>
+<img width="700" alt="image" src=https://user-images.githubusercontent.com/48334248/170514826-f03fc5ba-0dc5-4679-a036-e9dcc083ca2e.png>
 
 _**Figura 3. TSH-regulated metabolic pathways:** (A) “Volcano plot” type representation representing the “Heatmap” data from **Figure 2**. A fold change (fc) cut-off of 4, or log2 fc of + /- 2 was set to identify those lipids whose changes were significant. (B and C) Lipid Ontology Analysis of lipids whose changes were significant using the LION software (http://www.lipidontology.com)._
 
