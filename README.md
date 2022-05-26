@@ -89,4 +89,11 @@ To further study the role of CREB3L1 in TSH-induced lipid metabolism reprogrammi
 
 <img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170566156-6ae95aac-52ab-4145-a0a0-6a1c216821e6.png>
 
+### 4 Conclusion
 
+These results show the change in lipid metabolism carried out by the thyroid cell upon TSH stimulation and suggest that CREB3L1 may be playing a key role in this process. From these results it was concluded that:
+1. In the process of TSH stimulation, the thyroid cell undergoes lipid reprogramming, from a composition rich in certain lipids such as PC, PS and CL in the absence of TSH, to a composition rich in TAG, DAG, LBPA and sphingolipids in the presence of TSH. Consequently, lipids whose levels are high in the absence of TSH decrease with stimulation, and vice versa.
+2. In particular, in the group of sphingolipids, this reprogramming occurs in such a way that when the cells are deprived of TSH, the levels of the ganglio-sphingolipid GM1 increase and those of SM, in the plasma membrane, decrease. When stimulated with TSH, the cell begins to decrease GM1 levels and increase SM levels. Reprogramming at the sphingolipid levels has been previously described in neuronal differentiation models (Russo et al., 2018).
+3. The inhibition in the production of ceramide, and therefore of its sphingolipid derivatives, decreases the levels of CREB3L1 and its activation through stimulation with TSH. In addition, it was observed that NIS levels are altered and do not increase in response to TSH stimulation in the presence of inhibitors. Hence, it is concluded that the inhibition of sphingolipid production blocks the normal adaptation of the thyroid cell upon TSH stimulation.
+4. CREB3L1 regulates lipid production in thyroid cells. The lipids that decrease in CREB3L1 silenced cells, and increase with the expression of CREB3L1 CA, correlate with the increased lipids upon TSH stimulation, as well as the metabolic processes associated with these lipids. In contrast, the lipids that increase in cells where CREB3L1 is silenced bear some degree of similarity to those that increase in TSH-deprived cells.
+5. CREB3L1 modulates the levels of the SREBP-1C transcription factors, key modulator of the lipid synthesis.
