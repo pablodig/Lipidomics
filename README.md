@@ -39,3 +39,9 @@ _**Figure 4. Immunofluorescence analysis of GM1 and SM expressed in TSH-stimulat
 
 _**Figure 5. Flow cytometry (FACS) analysis ic PCCL3 cells stimulated with TSH:** Analysis by flow cytometry of PCCL3 cells of cells stained with Equina Tx (SM) and Cholera Tx (GM1) under growth conditions (Control ), deprived of TSH for 72 h (-TSH 72 h) and stimulated with TSH for 24 h (+ TSH 24 h)._
 
+To evaluate whether the production of SM, and sphingolipids as a whole, is necessary for the adaptation of the thyroid cell to TSH stimulation, the effect of the inhibition of sphingolipid synthesis in this process was analyzed. For this, two specific inhibitors that act at different stages of the metabolic pathway of sphingolipid synthesis were used **(Figure 6)**: Myriocin, a serine palmitoyltransferase (SPT) inhibitor, virtually blocks the synthesis of all sphingolipids by inhibiting the production of CER (Hojjati et al., 2005); and PDMP, an inhibitor of ceramide glucosyltransferase (GCS), blocks the synthesis of GlcCer, and therefore of all the glycosylated sphingolipids (glycosphingolipids) derived from it. PDMP also causes accumulation of SM and Galactosylceramide.
+
+<img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170518480-4f20aac6-529e-4071-a80c-59836b07e289.png>
+
+_**Figure 6. Representative scheme of the sphingolipid synthesis metabolic pathway.** Adapted from van Etchen et al. 2018_
+
