@@ -35,4 +35,7 @@ To corroborate the effect of TSH on sphingolipid synthesis within the cell, we p
 
 _**Figure 4. Immunofluorescence analysis of GM1 and SM expressed in TSH-stimulated PCCL3 cells:** Confocal analysis of PCCL3 cells under growth conditions (Ctrl), deprived from TSH for 72 h (0 h) and stimulated with TSH for 24 h and 48 h, stained with cholera toxin (Cholera Tx, green) and echinotoxin II (Equina Tx, cyan). The nuclei were labeled with Hoechst 33258._
 
+<img width="700" alt="image" src=https://user-images.githubusercontent.com/48334248/170517500-8a8424ab-8b17-408a-9c91-6d5bc594d8ed.png>
+
+_**Figure 5. Flow cytometry (FACS) analysis ic PCCL3 cells stimulated with TSH:** Analysis by flow cytometry of PCCL3 cells of cells stained with Equina Tx (SM) and Cholera Tx (GM1) under growth conditions (Control ), deprived of TSH for 72 h (-TSH 72 h) and stimulated with TSH for 24 h (+ TSH 24 h)._
 
