@@ -7,7 +7,7 @@ TSH induce changes in genes related to thyroid specific function, as well as gen
 
 Based on our results, which indicate that CREB3L1 induces an increase in Golgi volume, and results obtained by other laboratories, we hypothesize that CREB3L1 would participate in the cross-regulatory talk between the lipid and protein biosynthesis pathways necessary to increase the secretory capacity of the cell. To analyze cross-regulatory mechanisms between the lipid and protein biosynthetic pathways, we evaluated the lipid composition of the rat thyroid follicular cell line PCCL3, stimulated with TSH at different times by lipidomics assays, a technique based on high performance liquid chromatography coupled to mass spectrometry. This was done in collaboration with the laboratory of Giovani D'Angelo (Laboratory of Lipid Biology, EPFL, Lausanne, Switzerland). Assays were performed on PCCL3 cells that were incubated under growth conditions for 24 h, subsequently deprived of TSH (starvation conditions) for 72 h, and then stimulated with TSH for 24 h and 48 h. Before performing the lipidomics assays, TSH response was confirmed by Western blot using anit-CREB3L1, GM130 and NIS antibodies **(Figure. 1)**.
 
-<img width="400" alt="image" src="https://user-images.githubusercontent.com/48334248/165776493-815a69c1-73a0-426d-862e-0de4e1a71901.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/48334248/165776493-815a69c1-73a0-426d-862e-0de4e1a71901.png">
 
 _**Figure 1. Western blot analysis of PCCL3 cells stimulated with TSH at different times:** Western blot of whole protein extracts from PCCL3 cells. Cells under growth conditions (Ctrl), deprived from TSH for 72 h (0 h) and stimulated with TSH for 24 h and 48 h. Labels on the right side of the Western blot indicate the relative electrophoretic mobility of the corresponding NIS polypeptide according to its glycosylation state: immature glycosylation (~60kDa, Band A), and fully glycosylated (~100kDa, Band B)._
 
@@ -50,5 +50,13 @@ PCCL3 cells were incubated for eight days with the inhibitor, PDMP or Myriocin, 
 <img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170520060-49bd4d38-07a5-49c2-baae-9d8a2521e1b4.png>
 
 _**Figure 7. Effect of PDMDP and Myriocin inhibitors on TSH-stimulated PCCL3 cells:** PCCL3 cells under growth conditions (Ctrl) were incubated in the absence, or presence of PDMP (20 μM) or Myriocin (2.5 μM) by a period of 5 days, then they were deprived of TSH for 72 h (0 h) and stimulated with TSH for 24 h in the presence of the inhibitors._
+
+### 2 CREB3L1 is involved in TSH-induced lipid remodeling
+
+To assess whether CREB3L1 modulates lipid changes caused by TSH stimulation, we performed inhibition and overexpression assays of CREB3L1, using a specific siRNA for this transcription factor or transfection with a constitutively active version (CREB3L1 CA). PCCL3 cells under growth conditions were transfected with siCREB3L1 and siScramble as control **(Figure 8A)**, and CREB3L1 CA or pcDNA 3.1 as control **(Figure 8B)**. Here, the cells were not subjected to a TSH deprivation/stimulation process. As seen in **Figure 8A**, the inhibition of CREB3L1 using a specific siRNA produced a slight decrease in this transcription factor, with minimal changes in GM130 and NIS, proteins positively regulated by CREB3L1. CREB3L1 CA transfected cells exhibit higher levels of CREB3L1 than pcDNA transfected cells, and higher expression levels of GM130 and NIS are also detected.
+
+<img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170521788-7bdde2e9-bd00-45bc-ac6b-bac23d92b7c6.png>
+
+_**Figure 8. Western blot of PCCL3 cells transfected with siCREB3L1 and CREB3L1 CA:** Whole protein extracts of PCCL3 cells incubated in growth conditions, transfected for 72 h with siCREB3L1 or siScramble (A) or CREB3L1 CA or pcDNA (B). Images represent three biological replicates._
 
 
