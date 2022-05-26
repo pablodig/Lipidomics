@@ -55,8 +55,13 @@ _**Figure 7. Effect of PDMDP and Myriocin inhibitors on TSH-stimulated PCCL3 cel
 
 To assess whether CREB3L1 modulates lipid changes caused by TSH stimulation, we performed inhibition and overexpression assays of CREB3L1, using a specific siRNA for this transcription factor or transfection with a constitutively active version (CREB3L1 CA). PCCL3 cells under growth conditions were transfected with siCREB3L1 and siScramble as control **(Figure 8A)**, and CREB3L1 CA or pcDNA 3.1 as control **(Figure 8B)**. Here, the cells were not subjected to a TSH deprivation/stimulation process. As seen in **Figure 8A**, the inhibition of CREB3L1 using a specific siRNA produced a slight decrease in this transcription factor, with minimal changes in GM130 and NIS, proteins positively regulated by CREB3L1. CREB3L1 CA transfected cells exhibit higher levels of CREB3L1 than pcDNA transfected cells, and higher expression levels of GM130 and NIS are also detected.
 
-<img width="500" alt="image" src=https://user-images.githubusercontent.com/48334248/170521788-7bdde2e9-bd00-45bc-ac6b-bac23d92b7c6.png>
+<img width="800" alt="image" src=https://user-images.githubusercontent.com/48334248/170521788-7bdde2e9-bd00-45bc-ac6b-bac23d92b7c6.png>
 
 _**Figure 8. Western blot of PCCL3 cells transfected with siCREB3L1 and CREB3L1 CA:** Whole protein extracts of PCCL3 cells incubated in growth conditions, transfected for 72 h with siCREB3L1 or siScramble (A) or CREB3L1 CA or pcDNA (B). Images represent three biological replicates._
 
+Furthermore, as previously shown, CREB3L1 CA overesxpression increase the Golgi volume **(arrowheads and inset, Figure 9)**. These results suggest that lipid metabolism, associated with changes in the Golgi complex, could be modified by the increase in active CREB3L1.
+
+<img width="800" alt="image" src=https://user-images.githubusercontent.com/48334248/170522822-93011cad-9317-4c29-9d69-49f87b2bfd26.png>
+
+_**Figure 34. CREB3L1 modulates Golgi volume:** Immunofluorescence of PCCL3 cells transfected with CREB3L1 CA or pcDNA for 72 h, stained with anti-CREB3L1 (green) and anti-GM130 (red). Arrowheads in GM130 panels indicate transfected cells with enlarged Golgi phenotype. The nuclei were labeled with Hoechst 33258._
 
